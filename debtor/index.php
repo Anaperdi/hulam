@@ -24,16 +24,16 @@ if($sql->rowCount()== 0){
 
 <html lang="en">
 	<head><base href="../">
-		<meta charset="utf-8" />
-		<title>Home</title>
-		<meta name="description" content="Updates and statistics" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
-		<link href="assets/keen/plugins/custom/fullcalendar/fullcalendar.bundle.css" rel="stylesheet" type="text/css" />
-		<link href="assets/keen/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css" />
-		<link href="assets/keen/plugins/custom/prismjs/prismjs.bundle.css" rel="stylesheet" type="text/css" />
-		<link href="assets/keen/css/style.bundle.css" rel="stylesheet" type="text/css" />
-		<link rel="shortcut icon" href="assets/keen/media/logos/Hulam_Logo.png" />
+							<meta charset="utf-8" />
+							<title>Home</title>
+							<meta name="description" content="Updates and statistics" />
+							<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+							<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
+							<link href="assets/keen/plugins/custom/fullcalendar/fullcalendar.bundle.css" rel="stylesheet" type="text/css" />
+							<link href="assets/keen/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css" />
+							<link href="assets/keen/plugins/custom/prismjs/prismjs.bundle.css" rel="stylesheet" type="text/css" />
+							<link href="assets/keen/css/style.bundle.css" rel="stylesheet" type="text/css" />
+							<link rel="shortcut icon" href="assets/keen/media/logos/Hulam_Logo.png" />
 	</head>
 	<body id="kt_body" class="header-fixed header-mobile-fixed subheader-enabled page-loading opacity:0.2" style="background-image: url('assets/keen/media/logos/banner.png');">
 
